@@ -11,7 +11,7 @@ if planA >= 75:
     hasil = "lulus"
 elif planB >= 70:
     hasil = "lulus"  
-elif mtk ^ english >=90:
+elif mtk >=90 and english >=90:
     hasil = "lulus"    
 else :
     hasil = "Tidak lulus"  
